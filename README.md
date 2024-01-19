@@ -20,10 +20,10 @@ Slight fitment issues at the moment and requires a small amount of sanding.
 This is a MFR2 variant meant to fit KiserDesign's Monorail and other V4N4G0N-like PCBs that share the mount pattern and rough edge cuts. Utilizes tray mount and brass heat set inserts.
 Currently *only* 3D printable, but a modified variant that retains most of the design language while being able to be CNC'd is in the works.
 
-## [Suffer MFR](https://github.com/seirin-blu/Suffer-MFR2)
+## [Suffer MFR2](https://github.com/seirin-blu/Suffer-MFR2)
 This is a MFR2 variant meant to fit KiserDesign/Zicodia's Suffer PCBs. Utilizes tray mount and brass heat set inserts.
 
-## [Vault35 MFR2](https://github.com/seirin-blu/Vault35-MFR2) UNFINISHED
+## [Vault35 MFR2](https://github.com/seirin-blu/Vault35-MFR2)
 These are MFR2 variants meant to fit both the WKL and HHKB variants of the Vault35 PCB by Mechvault. Utilizes bottom mount self tapping screws into the case if printed.
 
 ## [Cutiepie MFR2](https://github.com/seirin-blu/Cutiepie-MFR2) UNFINISHED
