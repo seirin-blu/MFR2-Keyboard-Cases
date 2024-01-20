@@ -32,5 +32,8 @@ These are MFR2 variants meant to fit both the WKL and HHKB variants of the Vault
 ## [Bruce MFR2](https://github.com/seirin-blu/Bruce-MFR2)
 This is a MFR2 variant meant to fit jlw_ & whydobearsxplod's Bruce the Keyboard (not the person) PCBs. Utilizes tray mount and brass heat set inserts.
 
+## [Le Chiffre MFR2](https://github.com/seirin-blu/Le-Chiffre-MFR2)
+This is a MFR2 variant meant to fit the Le Chiffre PCB (more specifically the one modified by Sporkus). Utilizes top mount, brass heat set inserts, and self tapping machine screws.
+
 ## [Cutiepie MFR2](https://github.com/seirin-blu/Cutiepie-MFR2) UNFINISHED
 These are MFR2 variants meant to fit both the Ortho variant and Unistagger variant of the Cutiepie PCB by Flamwenco.
