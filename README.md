@@ -8,6 +8,9 @@ Additional versions of this (including one for 3D printing specifically) can be 
 ## [QAZ MFR2](https://github.com/seirin-blu/QAZ-MFR)
 This is a MFR2 variant meant to fit the QAZ PCB from Coffeebreak Keyboards. Utilizes a modified tray mount and brass heat set inserts.
 
+## [Quark MFR2](https://github.com/seirin-blu/Quark-MFR2)
+This is a MFR2 variant mean to fit the Quark PCB from Checkerboards Keyboards. Utilizes a modified tray mount and brass heat set inserts.
+
 ## [BM16a MFR2](https://github.com/seirin-blu/BM16a-MFR2)
 This is a MFR2 variant meant to fit the BM16a PCB from KPrepublic. Utilizes tray mount and brass heat set inserts.
 This case will likely be updated in the future if a better PCB becomes available.
