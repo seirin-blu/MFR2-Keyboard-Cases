@@ -29,5 +29,8 @@ This is a MFR2 variant meant to fit KiserDesign/Zicodia's Suffer PCBs. Utilizes 
 ## [Vault35 MFR2](https://github.com/seirin-blu/Vault35-MFR2)
 These are MFR2 variants meant to fit both the WKL and HHKB variants of the Vault35 PCB by Mechvault. Utilizes bottom mount self tapping screws into the case if printed.
 
+## [Bruce MFR2](https://github.com/seirin-blu/Bruce-MFR2)
+This is a MFR2 variant meant to fit jlw_ & whydobearsxplod's Bruce the Keyboard (not the person) PCBs. Utilizes tray mount and brass heat set inserts.
+
 ## [Cutiepie MFR2](https://github.com/seirin-blu/Cutiepie-MFR2) UNFINISHED
 These are MFR2 variants meant to fit both the Ortho variant and Unistagger variant of the Cutiepie PCB by Flamwenco.
