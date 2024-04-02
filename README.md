@@ -37,3 +37,6 @@ This is a MFR2 variant meant to fit the Le Chiffre PCB (more specifically the on
 
 ## [Cutiepie MFR2](https://github.com/seirin-blu/Cutiepie-MFR2) UNFINISHED
 These are MFR2 variants meant to fit both the Ortho variant and Unistagger variant of the Cutiepie PCB by Flamwenco.
+
+## [Candybar MFR2](https://github.com/seirin-blu/Candybar-MFR2) LEFT SIDE NUMPAD CASE FINISHED
+These MFR2 variants meant to fit the TKC Candybar PCBs. Utulizes M2x4mm machine screws screwed directly into the posts
