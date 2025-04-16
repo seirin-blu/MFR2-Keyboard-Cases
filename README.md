@@ -43,3 +43,6 @@ This MFR2 variant is meant to fit the TKC Candybar PCBs. Utulizes M2x4mm machine
 
 ## [Tsuru MFR2](https://github.com/seirin-blu/Tsuru-MFR2)
 This is a MFR2 variant meant to fit the Tsuru PCB. Utilizes tray mount and brass heat set inserts.
+
+## [Acai-MFR2](https://github.com/seirin-blu/Acai-MFR2)
+This is a MFR2 variant meant to fit the Acai and Good Delivery PCBs. Utilizes bottom mount self tapping screws into the case if printed.
